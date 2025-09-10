@@ -180,4 +180,7 @@ sns.boxplot(data=cleaned_df)
 
 
 # Result
+
+We used Parity, LRC, CRC, and Checksum in this experiment because each is a method to detect transmission errors in data. Parity and LRC are simple but limited, while CRC is more powerful and widely used in real networks, and Checksum ensures data integrity in larger blocks.
+
 Thus the data cleaning process on the given dataset is executed successfully.
